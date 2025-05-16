@@ -75,34 +75,7 @@ Before running the project locally, ensure you have:
 - **Pera Wallet** (mobile or extension)
 - **Git** installed
 
-## Installation Steps
 
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/your-username/Algorand-Assistant.git
-    cd Algorand-Assistant
-    ```
-
-2. Install frontend dependencies:
-
-    ```bash
-    npm install
-    ```
-
-3. Build and deploy smart contracts using **AlgoKit**:
-
-    ```bash
-    algokit project run build
-    ```
-
-4. Start the development server:
-
-    ```bash
-    npm run dev
-    ```
-
-5. Visit [http://localhost:3000](http://localhost:3000) to view the running dApp.
 
 ## License
 This project is licensed under the **MIT License**.
